@@ -1,0 +1,23 @@
+body{
+    font-family: sans-serif;
+    background: rgb(15, 6, 77);
+    margin: 0;
+    padding: 0;
+
+}
+.conteiner{
+    min-height: 100vh;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: rgb(16, 165, 235);
+}
+.github{
+    display: flex;
+    border-radius: 5px;
+    width: 65px;
+    height: 35px;
+    background: #3ba7ff;
+}
