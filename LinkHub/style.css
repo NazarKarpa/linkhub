@@ -1,6 +1,6 @@
 body{
     font-family: sans-serif;
-    background: rgb(15, 60, 77);
+    background: rgb(215, 120, 77);
     margin: 0;
     padding: 0;
 
@@ -9,10 +9,10 @@ body{
     min-height: 100vh;
     display: flex;
     gap: 11px;
-    align-items: center;
+    align-items: right;
     justify-content: center;
     flex-direction: column;
-    color: rgb(16, 165, 235);
+    color: rgb(16, 105, 235);
 }
 .github{
     display: flex;
